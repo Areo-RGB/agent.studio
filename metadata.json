@@ -1,0 +1,6 @@
+{
+  "name": "Agent Config Studio",
+  "description": "Client-side developer dashboard for managing, serializing, and exporting MCP servers, skills, and prompts across Claude Code, Codex, Pi, and OpenCode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

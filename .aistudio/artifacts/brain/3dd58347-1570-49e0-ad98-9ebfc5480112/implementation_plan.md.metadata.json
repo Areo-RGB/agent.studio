@@ -1,0 +1,6 @@
+{
+  "summary": "Architectural blueprint and execution plan for Agent Config Studio, a client-side developer dashboard for managing MCP Servers, Skills, and Prompts across Claude Code, Codex, Pi Coding Agent, and OpenCode with validated serializers, Dexie persistence, and workspace export bundles.",
+  "updatedAt": "2026-10-16T13:37:37.013514067Z",
+  "requestFeedback": true,
+  "userFacing": true
+}
